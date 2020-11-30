@@ -1,0 +1,17 @@
+$primary-color: #0075b9;
+$secondary-color: #3da700;
+$grey-color-0: #000;
+$grey-color-1: #111;
+$grey-color-2: #333;
+$grey-color-3: #555;
+$grey-color-4: #777;
+$grey-color-5: #999;
+$grey-color-6: #aaa;
+$grey-color-7: #ccc;
+$grey-color-8: #eee;
+$grey-color-9: #fff;
+
+$border-primary: solid 1px #{$grey-color-2};
+$border-secondary: solid 1px #{$grey-color-8};
+
+$shadow-primary: 0 0 1rem #{$grey-color-8};
